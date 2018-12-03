@@ -1,0 +1,151 @@
+
+pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+coffecan
+  rotate: false
+  xy: 953, 973
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+cranial_nerves
+  rotate: false
+  xy: 500, 30
+  size: 437, 238
+  orig: 437, 238
+  offset: 0, 0
+  index: -1
+human
+  rotate: false
+  xy: 644, 851
+  size: 122, 141
+  orig: 122, 141
+  offset: 0, 0
+  index: -1
+kabel_off
+  rotate: false
+  xy: 953, 895
+  size: 10, 22
+  orig: 10, 22
+  offset: 0, 0
+  index: -1
+kabel_on
+  rotate: false
+  xy: 953, 919
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+laptop
+  rotate: false
+  xy: 752, 425
+  size: 74, 59
+  orig: 74, 59
+  offset: 0, 0
+  index: -1
+laptop_screen
+  rotate: false
+  xy: 2, 2
+  size: 496, 266
+  orig: 496, 266
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 953, 883
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+room
+  rotate: false
+  xy: 2, 632
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+scheinwerfer
+  rotate: false
+  xy: 644, 557
+  size: 314, 292
+  orig: 314, 292
+  offset: 0, 0
+  index: -1
+sea
+  rotate: false
+  xy: 2, 270
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+sitz
+  rotate: false
+  xy: 752, 486
+  size: 109, 69
+  orig: 109, 69
+  offset: 0, 0
+  index: -1
+water
+  rotate: false
+  xy: 953, 947
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+window_closed
+  rotate: false
+  xy: 644, 450
+  size: 106, 105
+  orig: 106, 105
+  offset: 0, 0
+  index: -1
+window_open
+  rotate: false
+  xy: 768, 881
+  size: 183, 111
+  orig: 183, 111
+  offset: 0, 0
+  index: -1
+
+pack2.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+sky
+  rotate: false
+  xy: 2, 2
+  size: 640, 224
+  orig: 640, 224
+  offset: 0, 0
+  index: -1
+table
+  rotate: false
+  xy: 2, 590
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+vignette
+  rotate: false
+  xy: 2, 228
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+
+pack3.png
+size: 512,256
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+surgeon_strikes
+  rotate: false
+  xy: 2, 2
+  size: 436, 236
+  orig: 436, 236
+  offset: 0, 0
+  index: -1

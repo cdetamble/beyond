@@ -1,0 +1,41 @@
+
+pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+lighthouse
+  rotate: false
+  xy: 644, 581
+  size: 313, 360
+  orig: 313, 360
+  offset: 0, 0
+  index: -1
+sea
+  rotate: false
+  xy: 2, 51
+  size: 640, 166
+  orig: 640, 166
+  offset: 0, 0
+  index: -1
+shore
+  rotate: false
+  xy: 2, 2
+  size: 640, 47
+  orig: 640, 47
+  offset: 0, 0
+  index: -1
+sky
+  rotate: false
+  xy: 2, 581
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+vignette
+  rotate: false
+  xy: 2, 219
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1

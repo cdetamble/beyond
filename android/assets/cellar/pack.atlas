@@ -1,0 +1,47 @@
+
+pack.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+background
+  rotate: false
+  xy: 2, 460
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+feet
+  rotate: false
+  xy: 644, 727
+  size: 304, 93
+  orig: 304, 93
+  offset: 0, 0
+  index: -1
+floor
+  rotate: false
+  xy: 2, 2
+  size: 530, 94
+  orig: 530, 94
+  offset: 0, 0
+  index: -1
+halos
+  rotate: false
+  xy: 2, 98
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
+
+pack2.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+vignette
+  rotate: false
+  xy: 2, 2
+  size: 640, 360
+  orig: 640, 360
+  offset: 0, 0
+  index: -1
